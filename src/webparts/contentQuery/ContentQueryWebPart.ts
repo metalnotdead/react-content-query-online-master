@@ -53,7 +53,7 @@ export default class ContentQueryWebPart
   * Support for theme variants
   ***************************************************************************/
   private _themeProvider: ThemeProvider;
-  private _themeVariant: IReadonlyTheme | undefined;
+  private _themeVariant: IReadonlyTheme;
 
 
 
